@@ -1,0 +1,14 @@
+Bayes tétel videó:
+-meglepő dolog, hogy a kérdés megfogalmazása ennyit számít
+-hétköznapi példa: Egész nap az egyetemen ülök. Este kapok egy ismeretlen számról egy üzenetet: "szia, láttalak ma előadáson, szívesen megismernélek." 
+Prior: Csoporttársak vesznek egész nap körül
+Bizonyíték: előadáson látott
+Posterior:  A bizonyíték megerősíti azt, ami eleve valószínűbb volt → nagy eséllyel egy csoporttárs üzent.
+
+Centrális határeloszlás tétel videó:
+érdekesség számomra a golyós példa
+hétköznapi példa: Tanulás közben minden egyes apró zavaró tényező – egy üzenet, egy gondolat, egy kis fáradtság – kicsit lassítja a tempót, és ezek a kis hatások összeadódva végül jól közelíthető, normális eloszlású „tanulási időt" eredményeznek. 
+
+p-érték videó:
+érdekesség számomra a p-érték félreértése (nagy p‑érték nem bizonyítja a nullhipotézist – csak azt jelzi, hogy az adat nem elég „furcsa" ahhoz, hogy megcáfolja.)
+statisztika feladatgyűjteményben szerepl, de őszintén nem használtam még a hétköznapi életben.
